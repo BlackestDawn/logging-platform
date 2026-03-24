@@ -249,3 +249,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 logging-platform.code-workspace
+go-api/go.sum
